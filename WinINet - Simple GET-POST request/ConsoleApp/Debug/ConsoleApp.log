@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  ConsoleApp.cpp
+c:\users\admin\documents\visual studio 2017\projects\consoleapp\consoleapp\consoleapp.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\documents\visual studio 2017\projects\consoleapp\consoleapp\consoleapp.cpp(107): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApp.vcxproj -> C:\Users\Admin\documents\visual studio 2017\Projects\ConsoleApp\Debug\ConsoleApp.exe
+  ConsoleApp.vcxproj -> C:\Users\Admin\documents\visual studio 2017\Projects\ConsoleApp\Debug\ConsoleApp.pdb (Partial PDB)

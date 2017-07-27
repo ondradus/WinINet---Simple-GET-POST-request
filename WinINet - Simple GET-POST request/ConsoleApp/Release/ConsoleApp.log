@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  ConsoleApp.cpp
+ConsoleApp.cpp(66): warning C4018: '<': signed/unsigned mismatch
+ConsoleApp.cpp(73): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 289 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApp.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2017\Projects\ConsoleApp\Release\ConsoleApp.exe
